@@ -121,7 +121,7 @@
                         <li class="nav-item"><a class="nav-link" href="fornecedores.php"><i class="bi bi-people-fill icon-large"></i> Fornecedores</a></li>
                         <li class="nav-item"><a class="nav-link" href="funcionarios.php"><i class="bi bi-person-badge-fill icon-large"></i> Funcionários</a></li>
                         <li class="nav-item"><a class="nav-link" href="estoque.php"><i class="bi bi-box-fill icon-large"></i> Estoque</a></li>
-                        <li class="nav-item"><a class="nav-link" href="manuten"><i class="bi bi-pc-display-horizontal icon-large"></i> Manutenção</a></li>
+                        <li class="nav-item"><a class="nav-link" href="manutencao.php"><i class="bi bi-pc-display-horizontal icon-large"></i> Manutenção</a></li>
                     </ul>
                     <div class="user mt-4">
                         <div class="nav-item text-center">

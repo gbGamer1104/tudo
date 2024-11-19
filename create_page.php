@@ -295,7 +295,7 @@ label{
                     <div class="container">
                         <div class="row">
                             <div class="col-12 main-form">
-                            <form action="create_page.php" method="POST">
+                            <form action="create_manutencao.php" method="POST">
                             <h1 class="h2 main-title">Manutenção de Equipamentos</h1>
                                     <div class="mb-3">
                                         <label for="nome_equip" class="form-label">Nome do
@@ -321,7 +321,7 @@ label{
                                             placeholder="">
                                     </div>
                                     <label for="funcionario_responsavel" class="form-label">Funcionário Responsável</label>
-<select class="form-select" id="funcionario_responsavel" name="funcionario_id" required>
+<select class="form-select" id="funcionario_responsavel" name="tecnico_resp" required>
     <option value="" disabled selected>Selecione um funcionário</option>
     <?php foreach ($funcionarios as $funcionario): ?>
         <option value="<?= $funcionario['funcionario_id'] ?>">
